@@ -1,0 +1,7 @@
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.exe.config
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.exe
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.pdb
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.AssemblyReference.cache
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.exe
+C:\Users\Fortec\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.pdb

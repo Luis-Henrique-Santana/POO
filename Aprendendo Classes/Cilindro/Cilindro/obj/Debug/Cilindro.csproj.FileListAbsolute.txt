@@ -1,0 +1,6 @@
+C:\Users\Fortec\source\repos\Cilindro\Cilindro\bin\Debug\Cilindro.exe.config
+C:\Users\Fortec\source\repos\Cilindro\Cilindro\bin\Debug\Cilindro.exe
+C:\Users\Fortec\source\repos\Cilindro\Cilindro\bin\Debug\Cilindro.pdb
+C:\Users\Fortec\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.exe
+C:\Users\Fortec\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.pdb
