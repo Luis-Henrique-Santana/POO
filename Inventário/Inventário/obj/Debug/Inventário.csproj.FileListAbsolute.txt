@@ -1,0 +1,14 @@
+C:\Users\Fortec\source\repos\Inventário\Inventário\obj\Debug\Inventário.csproj.AssemblyReference.cache
+C:\Users\Fortec\source\repos\Inventário\Inventário\obj\Debug\Inventário.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\source\repos\Inventário\Inventário\bin\Debug\Inventário.exe.config
+C:\Users\Fortec\source\repos\Inventário\Inventário\bin\Debug\Inventário.exe
+C:\Users\Fortec\source\repos\Inventário\Inventário\bin\Debug\Inventário.pdb
+C:\Users\Fortec\source\repos\Inventário\Inventário\obj\Debug\Inventário.exe
+C:\Users\Fortec\source\repos\Inventário\Inventário\obj\Debug\Inventário.pdb
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\bin\Debug\Inventário.exe.config
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\bin\Debug\Inventário.exe
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\bin\Debug\Inventário.pdb
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\obj\Debug\Inventário.csproj.AssemblyReference.cache
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\obj\Debug\Inventário.csproj.CoreCompileInputs.cache
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\obj\Debug\Inventário.exe
+C:\Users\Syonar\Desktop\programas\POO\Inventário\Inventário\obj\Debug\Inventário.pdb
