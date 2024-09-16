@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A8395C55-1E44-489D-B39C-2DFAD739F139}|Invent\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invent\u00E1rio\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8395C55-1E44-489D-B39C-2DFAD739F139}|Invent\u00E1rio\\Invent\u00E1rio.csproj|c:\\users\\syonar\\desktop\\programas\\poo\\invent\u00E1rio\\invent\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8395C55-1E44-489D-B39C-2DFAD739F139}|Invent\u00E1rio\\Invent\u00E1rio.csproj|C:\\Users\\Syonar\\Desktop\\programas\\POO\\Invent\u00E1rio\\invent\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8395C55-1E44-489D-B39C-2DFAD739F139}|Invent\u00E1rio\\Invent\u00E1rio.csproj|solutionrelative:invent\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Invent\u00E1rio\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwEIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T18:18:00.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T18:18:00.597Z"
             }
           ]
         }

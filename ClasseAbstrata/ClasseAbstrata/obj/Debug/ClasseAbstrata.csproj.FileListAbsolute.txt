@@ -1,0 +1,7 @@
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe.config
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.pdb
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.exe
+C:\Users\Fortec\source\repos\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.pdb
