@@ -1,0 +1,7 @@
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\bin\Debug\Polimofirsmo.exe.config
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\bin\Debug\Polimofirsmo.exe
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\bin\Debug\Polimofirsmo.pdb
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\obj\Debug\Polimofirsmo.csproj.AssemblyReference.cache
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\obj\Debug\Polimofirsmo.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\obj\Debug\Polimofirsmo.exe
+C:\Users\Fortec\Desktop\Polimofirsmo\Polimofirsmo\obj\Debug\Polimofirsmo.pdb
