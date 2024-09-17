@@ -1,0 +1,7 @@
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\bin\Debug\Pagamento.exe.config
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\bin\Debug\Pagamento.exe
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\bin\Debug\Pagamento.pdb
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\obj\Debug\Pagamento.csproj.AssemblyReference.cache
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\obj\Debug\Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\obj\Debug\Pagamento.exe
+C:\Users\Fortec\Desktop\Pagamento\Pagamento\obj\Debug\Pagamento.pdb
