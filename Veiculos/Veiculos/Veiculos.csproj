@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{48E02865-DB6B-4B6F-827D-8F579992B811}</ProjectGuid>
+    <ProjectGuid>{F57E9FC8-1208-4E18-8EA2-E7A84DF42228}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Veiculos</RootNamespace>
     <AssemblyName>Veiculos</AssemblyName>
@@ -43,13 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Caminhao.cs" />
-    <Compile Include="Carro.cs" />
-    <Compile Include="Moto.cs" />
-    <Compile Include="Onibus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Veiculo.cs" />
+    <Compile Include="VeiculoCombustao.cs" />
+    <Compile Include="VeiculoEletrico.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

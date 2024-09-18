@@ -8,10 +8,6 @@ namespace Veiculos
 {
     public abstract class Veiculo
     {
-
-        public string Placa { get; set; }
-        // Método abstrato
-        public abstract void Mover();
-
+        public abstract void CalcularAutonomia();
     }
 }
